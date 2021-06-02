@@ -1,2 +1,2 @@
 # GOFO
-It's Java applocation to book a playground in specific location and specific time
+It's a java application to book a playground in a specific location and specific time
